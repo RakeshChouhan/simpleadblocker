@@ -24,7 +24,7 @@
         "condition":{"urlFilter":"*//*googlesyndication*/*"}
     },
     {
-        "id":4,
+        "id":5,
         "priority":2,
         "action":{"type":"block"},
         "condition":{"urlFilter":"*//*adsdk.microsoft.com*/*"}
